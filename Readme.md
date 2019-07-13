@@ -31,7 +31,7 @@ Lancer votre cmd en mode admin
 
 ![Screenshot](https://github.com/ibine1/Sauvegarde/tree/master/Screenshot\0.png)
 
-![alt text](https://github.com/ibine1/Sauvegarde/tree/master/Screenshot\0.png)
+![1](https://user-images.githubusercontent.com/52750872/61171632-9ec7d400-a57a-11e9-9f7e-f2613223416b.PNG)
 
 
 Rendez-vous dans le répertoire du script backup.py via l'invite de commande. puis tapez " python backup.py"  afin de lancer le script. 
