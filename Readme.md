@@ -11,9 +11,9 @@ Python
 
 ## Présentation ##  
 
-Ce script a été écrit avec python 3.7.4,  il est donc fonctionnel avec l'environement Python 3.7.4 ou plus. Ce script a pour but de sauvegarder vos données. Il vous offre la possibilité de faire une copie de vos données tel que ou bien de les compresser.
+Ce script a été écrit avec python 3.7.4,  il est donc fonctionnel avec l'environement Python 3.7.4 ou plus. Ce script a pour but de sauvegarder vos données. Il vous offre la possibilité de faire une copie de vos données ou bien de les compresser.
 
-Lors du lancement du script il suffit de lui préciser si vous souhaité une simple sauvegarde ou une archive en '.zip', ensuite il vous demandera le dossier source ainsi que l'emplacement de la sauvegarde.
+Lors du lancement du script il suffit de lui préciser si vous souhaité une ousimple sauvegarde ou une archive en '.zip', ensuite il vous demandera le dossier source ainsi que l'emplacement de la sauvegarde.
 
 ## Installation ##
 
