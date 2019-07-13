@@ -11,18 +11,18 @@ Python
 
 ## Présentation ##  
 
-Ce script a été écrit avec python 3.7.4,  il est donc fonctionnel avec l'environement Python 3.7.4 ou plus. Ce script a pour but de sauvegarder vos données. Il vous offre la possibilité de faire une copie de vos données ou bien de les compresser.
-Lors du lancement du script il suffit de lui préciser si vous souhaité une ousimple sauvegarde ou une archive en '.zip', ensuite il vous demandera le dossier source ainsi que l'emplacement de la sauvegarde.
+Ce script a été écrit avec python 3.7.4,  il est donc fonctionnel avec l'environnement Python 3.7.4 ou plus. Ce script a pour but de sauvegarder vos données. Il vous offre la possibilité de faire une copie de vos données ou bien de les compresser.
+Lors du lancement du script il suffit de lui préciser si vous souhaitez une simple sauvegarde ou une archive en '.zip', ensuite il vous demandera le dossier source ainsi que l'emplacement de la sauvegarde.
 
 ## Installation ##
 
-- Il faut télécharger Python 3.X, vous pouvez télécharger python via le lien fourni ci-dessus.
-- Installer Python avec les droits admin
-- Vérifier que le path pour python a bien été créé.
+- Téléchargez Python 3.X, vous pouvez télécharger python via le lien fourni ci-dessus.
+- Installez Python avec les droits admin
+- Vérifiez que le path pour python a bien été créé.
 
 ## Exemple d'utilisation ##
 
-Lancer votre cmd en mode admin 
+Lancez votre cmd en mode admin 
 
 ![0](https://user-images.githubusercontent.com/52750872/61171631-9ec7d400-a57a-11e9-889a-0768cfb36a03.PNG)
 
@@ -36,6 +36,7 @@ Indiquez le nom de l'emplacement du dossier source à sauvegarder puis le nom de
 ![2](https://user-images.githubusercontent.com/52750872/61173048-118e7a80-a58e-11e9-8d7d-412966fab132.PNG)
 
 ### Création d'un archive en ".zip"
+
 Si vous voulez, créer une archive de votre dossier répondez oui
  
 ![3](https://user-images.githubusercontent.com/52750872/61171634-9ec7d400-a57a-11e9-9301-05177db3c3c2.PNG)
