@@ -2,7 +2,7 @@
 
 ## Langage utilisé ##  
 
-Pwershell  
+PowerShell  
 Python 
 
 ## Prerequis ##
@@ -36,7 +36,7 @@ Rendez-vous dans le répertoire du script backup.py via l'invite de commande. pu
 Indiquez le nom de l'emplacement du dossier source à sauvegarder puis le nom de l'emplacement de la sauvegarde 
 
 
-![2](https://user-images.githubusercontent.com/52750872/61171633-9ec7d400-a57a-11e9-93c4-f0c59bdc873f.PNG
+![2](https://user-images.githubusercontent.com/52750872/61173048-118e7a80-a58e-11e9-8d7d-412966fab132.PNG)
 
 ### Création d'un archive en ".zip"
 Si vous voulez, créer une archive de votre dossier répondez oui
