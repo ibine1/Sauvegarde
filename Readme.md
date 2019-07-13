@@ -26,7 +26,7 @@ Lancez votre cmd en mode admin
 
 ![0](https://user-images.githubusercontent.com/52750872/61171631-9ec7d400-a57a-11e9-889a-0768cfb36a03.PNG)
 
-Rendez-vous dans le répertoire du script backup.py via l'invite de commande. puis tapez " python backup.py"  afin de lancer le script. 
+Rendez-vous dans le répertoire du script backup.py via l'invite de commande, puis tapez " python backup.py"  afin de lancer le script. 
 
 ![1](https://user-images.githubusercontent.com/52750872/61171632-9ec7d400-a57a-11e9-9f7e-f2613223416b.PNG)
 
@@ -43,7 +43,7 @@ Si vous voulez, créer une archive de votre dossier répondez oui
 
 Si l'archive n'existe pas elle se crée.  
 
-Si l'archive exite le script vous demandera si vous voulez l'ecraser, répondez oui ou non selon vos besoin.
+Si l'archive exite le script vous demandera si vous voulez l'écraser, répondez oui ou non selon vos besoin.
 
 ![4](https://user-images.githubusercontent.com/52750872/61171635-9ec7d400-a57a-11e9-9d7a-44987feb96b2.PNG)
 
@@ -58,7 +58,7 @@ Si vous souhaitez créer une simple sauvegarde, répondez non, le script fera un
   
 ![6](https://user-images.githubusercontent.com/52750872/61171628-9e2f3d80-a57a-11e9-8dda-2e8caf928195.PNG)   
 
-Si le dossier exite le script vous demandera si vous voulez l'ecraser, répondez oui ou non selon vos besoin.
+Si le dossier existe, le script vous demandera si vous voulez l'écraser, répondez oui ou non selon vos besoin.
 
 ![7](https://user-images.githubusercontent.com/52750872/61171629-9e2f3d80-a57a-11e9-8d02-f2d51d2cbf42.PNG)
 
