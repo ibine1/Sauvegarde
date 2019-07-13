@@ -46,7 +46,7 @@ Si l'archive exite le script vous demandera si vous voulez l'ecraser, répondez 
 
 ![4](https://user-images.githubusercontent.com/52750872/61171635-9ec7d400-a57a-11e9-9d7a-44987feb96b2.PNG)
 
-En Sachant que si vous répondez oui il écrasera votre archive, si vous répondez non l'opération sera annulée et sa sera la fin du script.
+En Sachant que si vous répondez oui il écrasera votre archive, si vous répondez non l'opération sera annulée et ça sera la fin du script.
 
 ![5](https://user-images.githubusercontent.com/52750872/61171627-9e2f3d80-a57a-11e9-9a36-1ab26d155276.PNG)
 
@@ -61,7 +61,7 @@ Si le dossier exite le script vous demandera si vous voulez l'ecraser, répondez
 
 ![7](https://user-images.githubusercontent.com/52750872/61171629-9e2f3d80-a57a-11e9-8d02-f2d51d2cbf42.PNG)
 
-En Sachant que si vous répondez oui il écrasera votre dossier, si vous répondez non l'opération sera annulée et sa sera la fin du script.
+En Sachant que si vous répondez oui il écrasera votre dossier, si vous répondez non l'opération sera annulée et ça sera la fin du script.
 
 ![8](https://user-images.githubusercontent.com/52750872/61171630-9e2f3d80-a57a-11e9-91f3-974056038743.PNG)
 
