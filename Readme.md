@@ -27,52 +27,46 @@ Lors du lancement du script il suffit de lui préciser si vous souhaité une sim
 
 Lancer votre cmd en mode admin 
 
-![Screenshot](0.Png)
-
-![Screenshot](https://github.com/ibine1/Sauvegarde/tree/master/Screenshot\0.png)
-
-![1](https://user-images.githubusercontent.com/52750872/61171632-9ec7d400-a57a-11e9-9f7e-f2613223416b.PNG)
-
+![0](https://user-images.githubusercontent.com/52750872/61171631-9ec7d400-a57a-11e9-889a-0768cfb36a03.PNG)
 
 Rendez-vous dans le répertoire du script backup.py via l'invite de commande. puis tapez " python backup.py"  afin de lancer le script. 
 
-![Screenshot](1.png) 
+![1](https://user-images.githubusercontent.com/52750872/61171632-9ec7d400-a57a-11e9-9f7e-f2613223416b.PNG)
 
 Indiquez le nom de l'emplacement du dossier source à sauvegarder puis le nom de l'emplacement de la sauvegarde 
 
 
-![Screenshot](2.png) 
-
-
+![2](https://user-images.githubusercontent.com/52750872/61171633-9ec7d400-a57a-11e9-93c4-f0c59bdc873f.PNG
 
 ### Création d'un archive en ".zip"
 Si vous voulez, créer une archive de votre dossier répondez oui
  
-![Screenshot](3.png)
+![3](https://user-images.githubusercontent.com/52750872/61171634-9ec7d400-a57a-11e9-9301-05177db3c3c2.PNG)
 
 Si l'archive n'existe pas elle se crée.  
 
 Si l'archive exite le script vous demandera si vous voulez l'ecraser, répondez oui ou non selon vos besoin.
 
-![Screenshot](4.png)
+![4](https://user-images.githubusercontent.com/52750872/61171635-9ec7d400-a57a-11e9-9d7a-44987feb96b2.PNG)
 
 En Sachant que si vous répondez oui il écrasera votre archive, si vous répondez non l'opération sera annulée et sa sera la fin du script.
 
-![Screenshot](5.png)
+![5](https://user-images.githubusercontent.com/52750872/61171627-9e2f3d80-a57a-11e9-9a36-1ab26d155276.PNG)
+
 
 ### Création d'une sauvegarde simple 
 
 Si vous souhaitez créer une simple sauvegarde, répondez non, le script fera une simple copie de votre de dossier 
   
-![Screenshot](6.png)    
+![6](https://user-images.githubusercontent.com/52750872/61171628-9e2f3d80-a57a-11e9-8dda-2e8caf928195.PNG)   
 
 Si le dossier exite le script vous demandera si vous voulez l'ecraser, répondez oui ou non selon vos besoin.
 
-![Screenshot](7.png)
+![7](https://user-images.githubusercontent.com/52750872/61171629-9e2f3d80-a57a-11e9-8d02-f2d51d2cbf42.PNG)
 
 En Sachant que si vous répondez oui il écrasera votre dossier, si vous répondez non l'opération sera annulée et sa sera la fin du script.
 
-![Screenshot](8.png)
+![8](https://user-images.githubusercontent.com/52750872/61171630-9e2f3d80-a57a-11e9-91f3-974056038743.PNG)
 
 ## Authors ##
 Ibine && Moussi13 
