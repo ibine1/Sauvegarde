@@ -2,7 +2,6 @@
 
 ## Langage utilisé ##  
 
-PowerShell  
 Python 
 
 ## Prerequis ##
